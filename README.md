@@ -1,2 +1,2 @@
 # Welit
-Simple command line application to get information about current weather in given location.
+CLI App which uses OpenWeather API to display current weather in given location.
