@@ -1,0 +1,27 @@
+{
+  "name": "welit",
+  "version": "1.0.0",
+  "description": "Simple command line application to get information about current weather in given location.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrochal/Welit.git"
+  },
+  "keywords": [
+    "Welit",
+    "Weather",
+    "CLI"
+  ],
+  "author": "Artur Grochal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/agrochal/Welit/issues"
+  },
+  "homepage": "https://github.com/agrochal/Welit#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
