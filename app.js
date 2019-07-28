@@ -26,7 +26,7 @@ getInput();
 
 function getData(city) {
    const reg = /^[A-Za-z]+$/;
-   if (city.match(reg)) {
+   if ((city.replace(/ /g, "")).match(reg)) {
       var url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=metric&appid=" + config.api;
       getWeather(city, url);
    } else {
