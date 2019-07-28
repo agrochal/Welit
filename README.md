@@ -8,7 +8,7 @@ CLI App which uses OpenWeather API to display current weather in given location.
 * You are now ready to use **Welit** and check current weather from CLI.
 * Type ```npm start``` or ```node app.js``` to start application running!
 
-![Welit](https://agrochal.me/img/project2.png "Welit")
+![Welit](https://agrochal.me/img/project2.PNG "Welit")
 
 ## License
 BSD-2-Clause
