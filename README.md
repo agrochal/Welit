@@ -7,7 +7,19 @@ CLI App which uses OpenWeather API to display current weather in given location.
 
 * You are now ready to use **Welit** and check current weather from CLI.
 * Type ```npm start``` or ```node app.js``` to start application running!
+## Example
+```
+Welcome to Welit!
 
+Type 'exit' instead of city to stop the program
+
+Weather for which city do you want to know? Warsaw
+
+Warsaw | Temp: 31.01°C | Clouds
+
+Weather for which city do you want to know?
+
+```
 ![Welit](https://agrochal.me/img/project2.PNG "Welit")
 
 ## License
