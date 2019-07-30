@@ -20,7 +20,7 @@ Warsaw | Temp: 31.01°C | Clouds
 Weather for which city do you want to know?
 
 ```
-![Welit](https://agrochal.me/img/project2.PNG "Welit")
+![Welit](https://agrochal.me/img/welit.PNG "Welit")
 
 ## License
 BSD-2-Clause
