@@ -47,5 +47,5 @@ function getWeather(city, url) {
           getInput();
         }
       }
-    )
+    );
 }
